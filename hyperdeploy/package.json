@@ -12,9 +12,9 @@
   "author": "Eric Simons",
   "license": "MIT",
   "dependencies": {
-    "firebase-tools": "^6.0.0"
+    "firebase-tools": "^14.0.1"
   },
   "devDependencies": {
-    "microbundle": "^0.7.0"
+    "microbundle": "^0.15.1"
   }
 }
